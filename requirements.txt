@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+# optional (only if you use Google Sheets)
+gspread
+google-auth
